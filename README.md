@@ -17,8 +17,7 @@ Je suis Guillaume, concepteur de solutions SaaS et architecte IA. 🚀
 - Front-end : React, Next.js
 - Back-end : Node.js, Supabase
 - Déploiement : Vercel, O2switch
-
----
+  
 
 <img align="left" alt="VScode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:11px;" /> 
 <img align="left" alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:11px;" /> 
