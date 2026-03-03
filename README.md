@@ -1,4 +1,4 @@
-Hi there ! 
+# Hi there 👋🏼 
 
 I'm Guillaume, SaaS developer and AI-assisted web development specialist.
 
