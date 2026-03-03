@@ -56,6 +56,7 @@ I recharge by running 🏃, lifting weights 🏋️, doing CrossFit 💪, hiking
 <img align="left" alt="Tailwind" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:11px;" /> 
 <img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:11px;" />
 <img align="left" alt="Next" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:11px;" />
-          
-         
+<img align="left" alt="Mongodb" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:11px;" />        
+   
+                
           
