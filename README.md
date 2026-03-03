@@ -4,7 +4,8 @@
 
 ## 🇫🇷 Français
 
-Bonjour ! Je suis Guillaume, concepteur de solutions SaaS et architecte IA. 🚀
+Bonjour ! 
+Je suis Guillaume, concepteur de solutions SaaS et architecte IA. 🚀
 
 **Ce que je fais :**
 - 🔄 Automatisation de workflows de prospection B2B
@@ -23,7 +24,8 @@ Je recharge les batteries en courant 🏃, soulevant de la fonte 🏋️, pratiq
 
 ## 🇬🇧 English
 
-Hi! I'm Guillaume, SaaS solutions designer and AI architect. 🚀
+Hi there ! 
+I'm Guillaume, SaaS solutions designer and AI architect. 🚀
 
 **What I do:**
 - 🔄 B2B prospecting workflow automation
