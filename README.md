@@ -30,6 +30,7 @@ Je suis Guillaume, concepteur de solutions SaaS et architecte IA. 🚀
 <img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:11px;" />
 <img align="left" alt="Numpy" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="padding-right:11px;" />
 
+---
 
 **En dehors du code :**
 Je recharge les batteries en courant 🏃, soulevant de la fonte 🏋️, pratiquant le CrossFit 💪, partant en randonnée 🥾 ou en voyage ✈️.
@@ -64,6 +65,7 @@ I'm Guillaume, SaaS solutions designer and AI architect. 🚀
 <img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:11px;" />
 <img align="left" alt="Numpy" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="padding-right:11px;" />  
 
+---
 
 **Outside of code :**
 I recharge by running 🏃, lifting weights 🏋️, doing CrossFit 💪, hiking 🥾, and travelling ✈️.
