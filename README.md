@@ -49,4 +49,4 @@ I recharge by running 🏃, lifting weights 🏋️, doing CrossFit 💪, hiking
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
-[<img align="left" alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:11px;" />]
+<img align="left" alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:11px;" />
