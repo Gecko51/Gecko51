@@ -1,11 +1,3 @@
-## Hi there 👋
-
-
-
-🇫🇷 [Français](#français) | 🇬🇧 [English](#english)
-
----
-
 ## 🇫🇷 Français
 
 Bonjour ! Je suis Guillaume, concepteur de solutions SaaS et architecte IA.
