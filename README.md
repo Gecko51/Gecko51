@@ -10,7 +10,7 @@ I'm Guillaume, SaaS solutions designer and AI architect.
 
 **My tech stack :**
 
-- Front-end: React, Next.js
+- 🌀 Front-end: React, Next.js
 - Back-end: Node.js, Supabase
 - Deployment: Vercel, O2switch
 
