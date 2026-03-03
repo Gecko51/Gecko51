@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Gecko51/Gecko51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 🇫🇷 [Français](#français) | 🇬🇧 [English](#english)
 
@@ -27,5 +26,3 @@ Hi! I'm Guillaume, SaaS solutions designer and AI architect.
 - SaaS development (Metricday, Gecko Mind)
 - AI integration for businesses
 
-
--->
