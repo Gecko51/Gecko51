@@ -32,7 +32,7 @@ I'm Guillaume, SaaS solutions designer and AI architect.
   
 **Outside of code :**
 
-I recharge by running 🏃, lifting weights 🏋️, doing CrossFit 💪, hiking 🥾, and travelling ✈️.
+I recharge by running 🏃, lifting weights 💪, hiking 🥾, and travelling ✈️.
 
 
 
