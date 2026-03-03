@@ -25,9 +25,11 @@ I'm Guillaume, SaaS solutions designer and AI architect.
 <img align="left" alt="Mongodb" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:11px;" /> 
 <img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:11px;" />
 <img align="left" alt="Numpy" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="padding-right:11px;" />
+<img align="left" alt="Docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style="padding-right:11px;" />
 <br clear="all" />
 
-          
+
+                    
 ---
   
 **Outside of code :**
