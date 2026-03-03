@@ -44,3 +44,8 @@ I recharge by running 🏃, lifting weights 🏋️, doing CrossFit 💪, hiking
 
 [![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
+
+[![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
