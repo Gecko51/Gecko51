@@ -33,6 +33,10 @@ Je suis Guillaume, concepteur de solutions SaaS et architecte IA. 🚀
 
 
 
+
+
+
+
 **En dehors du code :**
 Je recharge les batteries en courant 🏃, soulevant de la fonte 🏋️, pratiquant le CrossFit 💪, partant en randonnée 🥾 ou en voyage ✈️.
 
