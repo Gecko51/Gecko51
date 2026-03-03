@@ -5,8 +5,8 @@ I'm Guillaume, SaaS solutions designer and AI architect.
 **What I do :**
 
 - B2B prospecting workflow automation
-- SaaS development (Metricday, Gecko Mind)
 - AI integration for businesses
+- SaaS development
 
 **My tech stack :**
 
