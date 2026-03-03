@@ -5,6 +5,7 @@
 ## 🇫🇷 Français
 
 Bonjour ! 
+
 Je suis Guillaume, concepteur de solutions SaaS et architecte IA. 🚀
 
 **Ce que je fais :**
@@ -25,6 +26,7 @@ Je recharge les batteries en courant 🏃, soulevant de la fonte 🏋️, pratiq
 ## 🇬🇧 English
 
 Hi there ! 
+
 I'm Guillaume, SaaS solutions designer and AI architect. 🚀
 
 **What I do:**
