@@ -73,7 +73,7 @@ I'm Guillaume, SaaS solutions designer and AI architect. 🚀
 <img align="left" alt="Numpy" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="padding-right:11px;" />
 <br clear="all" />
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=Gecko51&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=Gecko 51&show_icons=true)
   
 ---
   
