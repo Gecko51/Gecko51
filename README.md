@@ -1,6 +1,6 @@
 Hi there ! 
 
-I'm Guillaume, SaaS solutions designer and AI architect.
+I'm Guillaume, SaaS developer and AI-assisted web development specialist.
 
 **What I do :**
 
