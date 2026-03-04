@@ -1,5 +1,5 @@
 # Hi there 👋🏼 
-salutation(Gecko51/salutatiion github.png)
+![salutation](Gecko 51/salutatiion github.png)
 
 salutatiion github.png
 
