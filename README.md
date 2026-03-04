@@ -1,4 +1,5 @@
 # Hi there 👋🏼 
+<img align="left" alt="JS" width="25px" src="https://drive.google.com/file/d/1bY_BnheYRN1jnP2_StjqKP-8ycfmaTYG/view?usp=sharing" style="padding-right:11px;" /> 
 
 I'm Guillaume, SaaS developer and AI-assisted web development specialist.
 
