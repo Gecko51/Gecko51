@@ -1,4 +1,7 @@
 # Hi there 👋🏼 
+![salutation](Gecko51/salutatiion github.png)
+
+salutatiion github.png
 
 I'm Guillaume, SaaS developer and AI-assisted web development specialist.
 
