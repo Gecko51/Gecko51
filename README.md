@@ -1,5 +1,5 @@
 <img width="500" alt="salutatiion github" src="https://github.com/user-attachments/assets/3c55c60f-9e8c-4ef6-98a6-fd51f982a438" />
-***
+---
 
 SaaS developer and AI-assisted web development specialist.
 
