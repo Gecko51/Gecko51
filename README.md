@@ -1,6 +1,6 @@
-<img width="500" alt="salutation github" src="https://github.com/user-attachments/assets/fa0a00c6-5004-4b7c-9a70-83af4901a9bf" />
-<br clear="all" />
-                             
+<img width="500" alt="salutation github" src="https://github.com/user-attachments/assets/80004735-2f37-4bd2-b85f-ea43d3f22927" />
+
+<br clear="all" />                        
 ---
 
 SaaS developer and AI-assisted web development specialist.
