@@ -18,7 +18,7 @@ I build automation systems that generate leads and content on autopilot.
 - 🧩 Back-end → Node.js, Supabase
 - ☁️ Deployment → Vercel, Netlify, Docker
 
-<br clear="all" />
+
 
 
 <img align="left" alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:11px;" /> 
