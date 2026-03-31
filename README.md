@@ -27,6 +27,7 @@ SaaS developer and AI-assisted web development specialist.
 <img align="left" alt="Supabase" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:11px;" />  
 <img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:11px;" />
 <img align="left" alt="Numpy" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="padding-right:11px;" />
+<img align="left" alt="Numpy" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:11px;" />
 <img align="left" alt="Docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style="padding-right:11px;" />
 <img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:11px;" />
 <br clear="all" />
