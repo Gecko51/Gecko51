@@ -16,7 +16,7 @@ SaaS developer and AI-assisted web development specialist.
 
 - 🌀 Front-end → React, Next.js
 - 🧩 Back-end → Node.js, Supabase
-- ☁️ Deployment → Vercel, Netlify, O2switch
+- ☁️ Deployment → Vercel, Netlify, Docker
 
 <img align="left" alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:11px;" /> 
 <img align="left" alt="Tailwind" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:11px;" /> 
