@@ -1,4 +1,4 @@
-<img width="1000" alt="salutation github v3" src="https://github.com/user-attachments/assets/5e62496a-91e9-4712-88a8-4bc01a553ee7" />
+<img width="500" alt="salutation github v3" src="https://github.com/user-attachments/assets/5e62496a-91e9-4712-88a8-4bc01a553ee7" />
 
 <br clear="all" />
 
