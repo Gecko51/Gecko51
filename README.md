@@ -4,7 +4,7 @@
 
 ---
 
-SaaS developer and AI-assisted web development specialist.
+I build automation systems that generate leads and content on autopilot.
 
 **What I do :**
 
