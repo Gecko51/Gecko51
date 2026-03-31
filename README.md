@@ -8,15 +8,17 @@ I build automation systems that generate leads and content on autopilot.
 
 **What I do :**
 
-- B2B prospecting workflow automation
+- Done-for-you LinkedIn prospecting & content systems
+- SaaS products for B2B lead generation
 - AI integration for businesses
-- SaaS development
 
 **My tech stack :**
 
 - 🌀 Front-end → React, Next.js
 - 🧩 Back-end → Node.js, Supabase
 - ☁️ Deployment → Vercel, Netlify, Docker
+
+<br clear="all" />
 
 <img align="left" alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:11px;" /> 
 <img align="left" alt="Tailwind" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:11px;" /> 
