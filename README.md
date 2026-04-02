@@ -40,7 +40,7 @@ I build automation systems that generate leads and content on autopilot.
                              
 ---
 
-## 🌟 GitHub Stats
+## ✳️ GitHub Stats
 ![Gecko51's GitHub stats](https://readme-two-sand.vercel.app/api?username=Gecko51&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
 
 ---
