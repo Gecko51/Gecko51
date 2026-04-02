@@ -4,8 +4,6 @@
 
 ---
 
-## 🌟 GitHub Stats
-![Gecko51's GitHub stats](https://readme-two-sand.vercel.app/api?username=Gecko51&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
 
 I build automation systems that generate leads and content on autopilot.
 
@@ -40,6 +38,11 @@ I build automation systems that generate leads and content on autopilot.
 <br clear="all" />
 
                              
+---
+
+## 🌟 GitHub Stats
+![Gecko51's GitHub stats](https://readme-two-sand.vercel.app/api?username=Gecko51&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
+
 ---
   
 **Outside of code :**
