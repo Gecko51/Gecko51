@@ -7,7 +7,9 @@
 
 ### **I build automation systems that generate leads and content on autopilot.**
 
+---
 
+###
 
 **What I do :**
 
@@ -15,7 +17,7 @@
 - SaaS products for B2B lead generation
 - AI integration for businesses
   
-
+###
 
 **My tech stack :**
 
