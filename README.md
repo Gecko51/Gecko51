@@ -43,6 +43,21 @@ I build automation systems that generate leads and content on autopilot.
 ## ✳️ GitHub Stats
 ![Gecko51's GitHub stats](https://readme-two-sand.vercel.app/api?username=Gecko51&showicons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gecko51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gecko51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Gecko51&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gecko51&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 - [![Stargazers](https://img.shields.io/github/stars/Gecko51?style=for-the-badge&logo=github)](https://github.com/Gecko51?tab=repositories)
 - [![Followers](https://img.shields.io/github/followers/Gecko51?style=for-the-badge&logo=github&logoColor=white&color=007acc)](https://github.com/Gecko51?tab=followers)
