@@ -20,6 +20,7 @@ I build automation systems that generate leads and content on autopilot.
 - ☁️ Deployment → Vercel, Netlify, Docker
 
 
+###
 
 
 <img align="left" alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:11px;" /> 
@@ -37,8 +38,9 @@ I build automation systems that generate leads and content on autopilot.
 <img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:11px;" />
 <br clear="all" />
 
-                           
----
+
+###                           
+
 
 ## ✳️ GitHub Stats
 ![Gecko51's GitHub stats](https://readme-two-sand.vercel.app/api?username=Gecko51&showicons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
