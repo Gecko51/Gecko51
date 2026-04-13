@@ -5,8 +5,7 @@
 ---
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=FBB830&vCenter=true&width=900&lines=I+build+automation+systems+that+generate+leads+and+content+on+autopilot;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Python" alt="Typing Animation" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=00FF00&vCenter=true&width=900&lines=I+build+automation+systems+that+generate+leads+and+content+on+autopilot;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Python" alt="Typing Animation" />
 ---
 
 ###
