@@ -5,19 +5,24 @@
 ---
 
 
-I build automation systems that generate leads and content on autopilot.
+## I build automation systems that generate leads and content on autopilot.
 
-**What I do :**
+
+
+### **What I do :**
 
 - Done-for-you LinkedIn prospecting & content systems
 - SaaS products for B2B lead generation
 - AI integration for businesses
+  
 
-**My tech stack :**
+
+### **My tech stack :**
 
 - 🌀 Front-end → React, Next.js
 - 🧩 Back-end → Node.js, Supabase
 - ☁️ Deployment → Vercel, Netlify, Docker
+
 
 
 ###
