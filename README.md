@@ -7,6 +7,9 @@
 
 ### **I build automation systems that generate leads and content on autopilot.**
 
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=8%2B+Years+crafting+production-grade+software;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+Python;Building+Islamic+apps+for+millions+of+users;Turning+complex+problems+into+elegant+solutions" alt="Typing Animation" />
+
 ---
 
 ###
