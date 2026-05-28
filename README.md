@@ -29,7 +29,7 @@
 
 **Featured project :**
 
-[![Gecko Agent](https://img.shields.io/badge/🦎%20Gecko%20Agent-Try%20it%20now-00FF00?style=for-the-badge&logoColor=black&labelColor=0d0d0d)](https://gecko-agent.netlify.app/)
+[![Gecko Agent](https://img.shields.io/badge/🦎%20Gecko%20Agent-Try%20it%20now-FBB830?style=for-the-badge&logoColor=black&labelColor=0d0d0d)](https://gecko-agent.netlify.app/)
 
 ###
 
