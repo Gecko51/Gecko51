@@ -35,7 +35,7 @@
 
 ###
 
-*Those projects are open source under MIT License, feel free to propose your modifications*
+*Those projects are open source under MIT License, feel free to propose your modifications*.
 
 ###
 
