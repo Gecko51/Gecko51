@@ -39,6 +39,8 @@
 
 ###
 
+## 
+
 <img align="left" alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:11px;" /> 
 <img align="left" alt="Tailwind" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:11px;" /> 
 <img align="left" alt="TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:11px;" /> 
@@ -53,11 +55,6 @@
 <img align="left" alt="Docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style="padding-right:11px;" />
 <img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:11px;" />
 <br clear="all" />
-
-
-## 
-
----
 
 ##
 
