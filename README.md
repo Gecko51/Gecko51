@@ -69,7 +69,8 @@
 - [![Public Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=f6b93b&label=Public%20Repositories&query=public_repos&url=https://api.github.com/users/Gecko51)](https://github.com/Gecko51?tab=repositories)
 - [![Profile](https://img.shields.io/badge/Profile-Gecko51-%2300aaff?style=for-the-badge&logo=github)](https://github.com/Gecko51)
 - ![Profile Views](https://komarev.com/ghpvc/?username=Gecko51&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
----
+
+##
   
 **Outside of code :**
 
