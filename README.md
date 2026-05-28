@@ -27,9 +27,8 @@
 
 ###
 
-**Featured project :**
+##**Featured project :**
 
-*Those projects are open source under MIT License, feel free to propose your modifications*
 
 [![Gecko Agent](https://img.shields.io/badge/🦎%20Gecko%20Agent-Try%20it%20now-FBB830?style=for-the-badge&logoColor=black&labelColor=0d0d0d)](https://gecko-agent.netlify.app/)
 [![Feedex](https://img.shields.io/badge/🌶️%20Feedex-Try%20it%20now-FBB830?style=for-the-badge&logoColor=black&labelColor=0d0d0d)](https://github.com/Gecko51/feedex)
@@ -39,7 +38,6 @@
 *Those projects are open source under MIT License, feel free to propose your modifications*
 
 ###
-
 
 <img align="left" alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:11px;" /> 
 <img align="left" alt="Tailwind" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:11px;" /> 
