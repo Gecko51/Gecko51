@@ -33,6 +33,7 @@
 
 [![Gecko Agent](https://img.shields.io/badge/🦎%20Gecko%20Agent-Try%20it%20now-FBB830?style=for-the-badge&logoColor=black&labelColor=0d0d0d)](https://gecko-agent.netlify.app/)
 [![Feedex](https://img.shields.io/badge/🌶️%20Feedex-Try%20it%20now-FBB830?style=for-the-badge&logoColor=black&labelColor=0d0d0d)](https://github.com/Gecko51/feedex)
+*Those projects are open source under MIT License, feel free to propose your modifications*
 
 ###
 
