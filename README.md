@@ -21,7 +21,7 @@
 
 **My tech stack :**
 
-- 🌀 Front-end → Tailwind CSS, React, Next.js
+- 🌀 Front-end → Tailwind, React, Next.js
 - 🧩 Back-end → Node.js, FastAPI, LangChain, Supabase
 - ☁️ Deployment → Vercel, Netlify, Render, Docker
 
